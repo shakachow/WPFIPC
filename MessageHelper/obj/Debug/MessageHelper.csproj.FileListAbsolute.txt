@@ -1,0 +1,7 @@
+E:\workplace\Other\WPFIPC\MessageHelper\bin\Debug\MessageHelper.dll
+E:\workplace\Other\WPFIPC\MessageHelper\bin\Debug\MessageHelper.pdb
+E:\workplace\Other\WPFIPC\MessageHelper\bin\Debug\DataStruct.dll
+E:\workplace\Other\WPFIPC\MessageHelper\bin\Debug\DataStruct.pdb
+E:\workplace\Other\WPFIPC\MessageHelper\obj\Debug\MessageHelper.csprojResolveAssemblyReference.cache
+E:\workplace\Other\WPFIPC\MessageHelper\obj\Debug\MessageHelper.dll
+E:\workplace\Other\WPFIPC\MessageHelper\obj\Debug\MessageHelper.pdb

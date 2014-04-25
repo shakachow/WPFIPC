@@ -1,0 +1,9 @@
+﻿<Window x:Class="Receiver.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Receiver" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="txtShow" Height="23" Margin="34,177,36,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Content="接收信息：" HorizontalAlignment="Left" Margin="34,152,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

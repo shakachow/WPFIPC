@@ -1,0 +1,4 @@
+E:\workplace\Other\WPFIPC\DataStruct\bin\Debug\DataStruct.dll
+E:\workplace\Other\WPFIPC\DataStruct\bin\Debug\DataStruct.pdb
+E:\workplace\Other\WPFIPC\DataStruct\obj\Debug\DataStruct.dll
+E:\workplace\Other\WPFIPC\DataStruct\obj\Debug\DataStruct.pdb
